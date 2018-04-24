@@ -1,0 +1,7 @@
+E:\Tejas\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+E:\Tejas\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+E:\Tejas\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+E:\Tejas\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+E:\Tejas\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+E:\Tejas\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+E:\Tejas\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
